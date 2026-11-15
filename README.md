@@ -1,4 +1,3 @@
-# nyc-housing-violations
 # Vetting Apartment Buildings with NYC Housing Violation Data
 
 ## The question
@@ -64,11 +63,9 @@ My first ranking simply counted open hazardous violations per building,
 and it was misleading in two ways. One building in the top 20 had 268
 open violations, and every one of them dated from 2005 or earlier.
 Another ranked third with 538, but they were spread across 129
-apartments, about 4 each. Once I limited the list to violations since
-2024 and divided by apartments cited, the order changed: the building
-that was third by raw count turned out to be the highest per apartment.
-Four addresses stayed near the top however I measured, and those are the
-ones I would research hardest before a tour.
+apartments, about 4 each. Once I limited the list to violations since 2024 and divided by
+apartments cited, the order changed: a building that had been seventh
+on my first list had the highest rate per apartment in the top 20.
 
 ## What I learned about the data
 

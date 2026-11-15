@@ -4,6 +4,6 @@
 SELECT year(inspectiondate) AS yr, COUNT(*) AS violation_count
 FROM violations
 WHERE class = 'C'
-  AND year(inspectiondate) >= 2021
+  AND year(inspectiondate) >= 2015
 GROUP BY yr
 ORDER BY yr;

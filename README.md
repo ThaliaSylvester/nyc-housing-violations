@@ -66,6 +66,8 @@ Another ranked third with 538, but they were spread across 129
 apartments, about 4 each. Once I limited the list to violations since 2024 and divided by
 apartments cited, the order changed: a building that had been seventh
 on my first list had the highest rate per apartment in the top 20.
+Four addresses stayed near the top however I measured, and those are the
+ones I would research hardest before a tour.
 
 ## What I learned about the data
 

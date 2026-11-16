@@ -1,6 +1,9 @@
 -- What are the most common serious (class C) problems?
 -- Categories are matched on phrases in the violation description.
 
+-- Categorize serious housing violations by problem type
+-- to identify the most prevalent hazardous conditions.
+
 SELECT
   CASE
     WHEN novdescription ILIKE '%provide hot water%'
